@@ -1,0 +1,37 @@
+[0.762s] Invoking command in '/home/gunwon/object_detection_ws/src/yolo_detection': PYTHONPATH=/home/gunwon/object_detection_ws/build/yolo_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gunwon/object_detection_ws/install/yolo_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detection build --build-base /home/gunwon/object_detection_ws/build/yolo_detection/build install --record /home/gunwon/object_detection_ws/build/yolo_detection/install.log --single-version-externally-managed install_data
+[1.061s] running egg_info
+[1.062s] creating ../../build/yolo_detection/yolo_detection.egg-info
+[1.062s] writing ../../build/yolo_detection/yolo_detection.egg-info/PKG-INFO
+[1.062s] writing dependency_links to ../../build/yolo_detection/yolo_detection.egg-info/dependency_links.txt
+[1.062s] writing entry points to ../../build/yolo_detection/yolo_detection.egg-info/entry_points.txt
+[1.063s] writing requirements to ../../build/yolo_detection/yolo_detection.egg-info/requires.txt
+[1.063s] writing top-level names to ../../build/yolo_detection/yolo_detection.egg-info/top_level.txt
+[1.063s] writing manifest file '../../build/yolo_detection/yolo_detection.egg-info/SOURCES.txt'
+[1.065s] reading manifest file '../../build/yolo_detection/yolo_detection.egg-info/SOURCES.txt'
+[1.066s] writing manifest file '../../build/yolo_detection/yolo_detection.egg-info/SOURCES.txt'
+[1.066s] running build
+[1.066s] running build_py
+[1.066s] creating /home/gunwon/object_detection_ws/build/yolo_detection/build
+[1.066s] creating /home/gunwon/object_detection_ws/build/yolo_detection/build/lib
+[1.066s] creating /home/gunwon/object_detection_ws/build/yolo_detection/build/lib/yolo_detection
+[1.066s] copying yolo_detection/__init__.py -> /home/gunwon/object_detection_ws/build/yolo_detection/build/lib/yolo_detection
+[1.067s] copying yolo_detection/object_detection_with_ros.py -> /home/gunwon/object_detection_ws/build/yolo_detection/build/lib/yolo_detection
+[1.067s] running install
+[1.067s] running install_lib
+[1.067s] creating /home/gunwon/object_detection_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection
+[1.068s] copying /home/gunwon/object_detection_ws/build/yolo_detection/build/lib/yolo_detection/__init__.py -> /home/gunwon/object_detection_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection
+[1.068s] copying /home/gunwon/object_detection_ws/build/yolo_detection/build/lib/yolo_detection/object_detection_with_ros.py -> /home/gunwon/object_detection_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection
+[1.068s] byte-compiling /home/gunwon/object_detection_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection/__init__.py to __init__.cpython-310.pyc
+[1.068s] byte-compiling /home/gunwon/object_detection_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection/object_detection_with_ros.py to object_detection_with_ros.cpython-310.pyc
+[1.069s] running install_data
+[1.069s] creating /home/gunwon/object_detection_ws/install/yolo_detection/share/ament_index
+[1.070s] creating /home/gunwon/object_detection_ws/install/yolo_detection/share/ament_index/resource_index
+[1.070s] creating /home/gunwon/object_detection_ws/install/yolo_detection/share/ament_index/resource_index/packages
+[1.070s] copying resource/yolo_detection -> /home/gunwon/object_detection_ws/install/yolo_detection/share/ament_index/resource_index/packages
+[1.070s] copying package.xml -> /home/gunwon/object_detection_ws/install/yolo_detection/share/yolo_detection
+[1.070s] running install_egg_info
+[1.072s] Copying ../../build/yolo_detection/yolo_detection.egg-info to /home/gunwon/object_detection_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection-0.0.0-py3.10.egg-info
+[1.072s] running install_scripts
+[1.091s] Installing yolo_detection script to /home/gunwon/object_detection_ws/install/yolo_detection/lib/yolo_detection
+[1.091s] writing list of installed files to '/home/gunwon/object_detection_ws/build/yolo_detection/install.log'
+[1.130s] Invoked command in '/home/gunwon/object_detection_ws/src/yolo_detection' returned '0': PYTHONPATH=/home/gunwon/object_detection_ws/build/yolo_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gunwon/object_detection_ws/install/yolo_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detection build --build-base /home/gunwon/object_detection_ws/build/yolo_detection/build install --record /home/gunwon/object_detection_ws/build/yolo_detection/install.log --single-version-externally-managed install_data

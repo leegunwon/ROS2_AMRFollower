@@ -1,0 +1,5 @@
+[console_scripts]
+camera_image_publisher_node = yolo_detection.camera_image_publisher:main
+yolo_publisher_node = yolo_detection.yolo_publisher:main
+yolo_subscriber_node = yolo_detection.yolo_subscriber:main
+

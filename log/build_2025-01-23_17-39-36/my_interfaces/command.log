@@ -1,0 +1,2 @@
+Invoking command in '/home/gunwon/object_detection_ws/build/my_interfaces': CMAKE_PREFIX_PATH=/home/gunwon/object_detection_ws/install/yolo_detection:/opt/ros/humble /usr/bin/cmake --build /home/gunwon/object_detection_ws/build/my_interfaces -- -j12 -l12
+Invoked command in '/home/gunwon/object_detection_ws/build/my_interfaces' returned '2': CMAKE_PREFIX_PATH=/home/gunwon/object_detection_ws/install/yolo_detection:/opt/ros/humble /usr/bin/cmake --build /home/gunwon/object_detection_ws/build/my_interfaces -- -j12 -l12

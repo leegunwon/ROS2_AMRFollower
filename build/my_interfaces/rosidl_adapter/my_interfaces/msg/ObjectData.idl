@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from my_interfaces/msg/ObjectData.msg
+// generated code does not contain a copyright notice
+
+#include "sensor_msgs/msg/Image.idl"
+#include "std_msgs/msg/Int32MultiArray.idl"
+
+module my_interfaces {
+  module msg {
+    @verbatim (language="comment", text=
+      "ObjectData.msg" "\n"
+      "객체 데이터를 정의하는 메시지")
+    struct ObjectData {
+      @verbatim (language="comment", text=
+        "바운딩 박스 좌표 (x1, y1, x2, y2)")
+      std_msgs::msg::Int32MultiArray position;
+
+      @verbatim (language="comment", text=
+        "객체의 잘라낸 이미지")
+      sensor_msgs::msg::Image image;
+    };
+  };
+};
